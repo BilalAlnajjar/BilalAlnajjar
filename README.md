@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Bilal Alnajjar</h1>
 <h3 align="center">A passionate Full-Stack developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bilalalnajjar&label=Profile%20views&color=0e75b6&style=flat" alt="bilalalnajjar" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bilalalnajjar" alt="bilalalnajjar" /></a> </p>
-
 - 🌟Programming and designing the Boxprint website [Boxprint website](http://boxprint.om/)
 
 - 🌟Programming and designing the Mediabird website [Mediabird website](https://www.mediabirdco.com/)
